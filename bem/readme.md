@@ -20,32 +20,33 @@ Modifier adalah sebuah tanda/kode yang digunakan untuk mengubah tampilan dan sif
 
 ### Block
 Block ditulis layaknya element pada umumnya menggunakan class
-
+```
 .status { ... } // <-- Blok Status
-
+```
 ### Element
 Element ditulis dengan menyertakan block didepannya
-
+```
 .status__cover { ... } // <-- Element Cover
-
+```
 ### Modifier
 Modifier juga ditulis dengan menyertakan block didepannya
-
+```
 .status--light { ... } <-- light Modifier 
 .status--dark { ... } <-- dark Modifier  
-
+```
 ### Susunan Penulisan
 
 Secara utuh, kode css diatas akan membentuk susunan kode berikut
-
+```
 .status { ... }
 .status__cover { ...}
 .status--dark { ... }
 .status--light { ... }
-
+```
 Penulisan kode ditulis secara terpisah & tidak menggabungkan sebagaimana penulisan css umumnya
-
+```
 .status { ... }
 .status .status__cover { ... }
 .status .status--dark { ... }
 .status .status--light { ... }
+```
