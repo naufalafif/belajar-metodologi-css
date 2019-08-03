@@ -1,0 +1,41 @@
+
+body {
+  background-color: #d0d0d0;
+}
+
+/* Block */
+.artikel { 
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 3px 2px 10px #80808026;
+  background: #f7f7f7;
+  font-family: sans-serif;
+  max-width: 60%; 
+}
+
+/* Element */
+.artikel__judul {
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #80808021;
+}
+
+/* Element */
+.artikel__cover {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+
+/* Element */
+.artikel__content {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+/* Modifier */
+.artikel--dark {
+  background: #161c40;
+  color: #f9a307;
+}
