@@ -1,4 +1,4 @@
-# belajarMetodologiCSS
+# belajar metodologi CSS
 kumpulan catatan, kode & gambar untuk belajar metodologi css
 
 > **Metodologi CSS** atau dikenal juga sebagai Naming Convention adalah aturan yang dibentuk guna memudahkan developer dalam mengembangkan tampilan aplikasi & juga menjadikan app lebih scaleable dari sisi tampilan. Metodologi CSS dapat meningkatkan rasa percaya diri developer dalam mengubah code CSS. **Review Needed**
