@@ -6,13 +6,11 @@ kumpulan catatan, kode & gambar untuk belajar metodologi css
 saat ini terdapat banyak metodologi CSS yang dapat digunakan. beberapa yang cukup populer yaitu
 
 **BEM CSS**
-BEM CSS adalah singkatan dari Block Element Modifier.
-Coming Soon
+[Metodologi BEM](https://github.com/naufalafif/belajarMetodologiCSS/tree/master/bem)
+
 
 **OOCSS**
-OOCSS adalah singkatan dari Object Oriented CSS
-Coming Soon
+Metodologi OOCSS
 
 **Atomic CSS**
-
-Coming Soon
+[Metodologi Atomic CSS]
